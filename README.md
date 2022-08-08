@@ -22,4 +22,4 @@
 
 
 ## Github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjcommits&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pj-commits&theme=radical)
