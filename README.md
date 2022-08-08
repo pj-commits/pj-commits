@@ -14,7 +14,6 @@
 - I’m looking to collaborate on Beginner web dev projects
 - I’m looking for help with PHP
 - Ask me about Python
-- Pronouns: he/his
 
 ## Summary
 
