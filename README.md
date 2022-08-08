@@ -19,3 +19,7 @@
 ## Summary
 
 --work in progress--
+
+
+## Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjcommits)](https://github.com/anuraghazra/github-readme-stats)
