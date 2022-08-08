@@ -22,10 +22,11 @@
 
 
 ## Github stats
-
+<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pj-commits&theme=monokai)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pj-commits&theme=monokai)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pj-commits&theme=monokai)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pj-commits&theme=monokai)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pj-commits&theme=monokai&utcOffset=8)
 
+</p>
