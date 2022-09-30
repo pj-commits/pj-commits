@@ -10,7 +10,7 @@
 
 
 - I’m currently working on small personal projects
-- I’m currently learning Python
+- I’m currently learning PHP and Python
 - I’m looking to collaborate on Beginner web dev projects
 - I’m looking for help with PHP and Python
 
